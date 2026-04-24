@@ -1,5 +1,11 @@
 # 🦁 AI Safari
 
+<p align="center">
+  <img src="assets/images/ai_safari_hero_banner" alt="AI Safari Banner" width="100%" />
+</p>
+
+---
+
 ### *Where Curiosity Meets Command*
 
 From the remarkable hub of knowledge, pioneered by **[Power Learn Project](https://powerlearnprojectafrica.org/)**; I say welcome to **AI Safari** — a transformative 20-hour expedition designed to turn you from a passive AI user into a **Pride Leader** capable of commanding digital intelligence with precision, ethical rigor, and African-contextual insight.
@@ -219,5 +225,11 @@ AI Safari equips you to:
 **Step into the wild.
 Master the terrain.
 Lead the pride. 🦁**
+
+---
+
+<p align="center">
+  <img src="assets/images/ai_safari_closing_banner" alt="Join AI Safari" width="100%" />
+</p>
 
 ---
